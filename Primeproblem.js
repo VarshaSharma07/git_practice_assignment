@@ -11,7 +11,7 @@ for(let i=0; i<=number, i++){
 	}
 }
 
-if(factors==1){
+if(factors==2){
   
 	console.log("prime number");
 
