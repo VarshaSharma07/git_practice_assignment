@@ -2,7 +2,8 @@ let number=15;
 
 let factors=0;
 
-for(let i=0; i<=number, i++){
+for(let i=0; i<=number;i++)
+{
   
 	if(number%i==0){
     
